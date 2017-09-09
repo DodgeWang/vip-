@@ -1,9 +1,7 @@
 // ==UserScript==
-// @name         VIP视频在线解析
+// @name         VIP视频免费看
 // @namespace    http://ifkjx.com/
-// @version      1.3.5
-// @description  在视频标题旁上显示“vip解析”按钮和“搜索电影”按钮，在线播放vip视频；支持优酷vip，腾讯vip，爱奇艺vip，芒果vip，乐视vip等常用视频...
-// @author       ifkjx
+// @description  在线播放vip视频；支持优酷vip，腾讯vip，爱奇艺vip，芒果vip，乐视vip等常用视频...
 // @match        *://v.youku.com/v_show/*
 // @match        *://*.iqiyi.com/v_*
 // @match        *://*.iqiyi.com/dianying/*
