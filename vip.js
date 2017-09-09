@@ -1,7 +1,8 @@
 // ==UserScript==
-// @name         VIP视频免费看
+// @name         VIP视频
 // @namespace    http://ifkjx.com/
 // @description  在线播放vip视频；支持优酷vip，腾讯vip，爱奇艺vip，芒果vip，乐视vip等常用视频...
+// @author       wangdaiqiang
 // @match        *://v.youku.com/v_show/*
 // @match        *://*.iqiyi.com/v_*
 // @match        *://*.iqiyi.com/dianying/*
